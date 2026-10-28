@@ -1,0 +1,8 @@
+sequence,artifact_id,title,room,required_checks,display_status
+10,AR-101,Celestial Map,East Gallery,2,ON_DISPLAY
+20,AR-205,Harbor Sketch,West Gallery,3,ON_DISPLAY
+30,AR-330,Clay Vessel,Study Room,2,ON_DISPLAY
+40,AR-410,Silk Banner,Archive,2,STORED
+50,AR-512,Stone Mask,East Gallery,1,ON_DISPLAY
+60,AR-600,Bronze Dial,North Gallery,2,ON_DISPLAY
+70,AR-725,Glass Comet,South Gallery,2,ON_DISPLAY
