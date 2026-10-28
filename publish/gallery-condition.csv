@@ -1,0 +1,4 @@
+sequence,artifact_id,title,room,current_passes,current_fails,missing_checks,condition
+20,AR-205,Harbor Sketch,West Gallery,2,1,0,BLOCKED
+70,AR-725,Glass Comet,South Gallery,0,1,1,BLOCKED
+60,AR-600,Bronze Dial,North Gallery,1,0,1,PENDING
